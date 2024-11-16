@@ -1,6 +1,6 @@
 # 👨‍💻 Full Stack Developer
 
-Hi there! I'm a passionate **Full Stack Developer** with over 7 years of experience, specializing in building and optimizing web applications from scratch. I love working with the latest technologies to create efficient, scalable, and beautiful products.
+Hi there! I'm a passionate **Full Stack Developer** with over 4 years of experience, specializing in building and optimizing web applications from scratch. I love working with the latest technologies to create efficient, scalable, and beautiful products.
 
 ---
 
